@@ -4,7 +4,11 @@ Türkiye'deki bütün ilçeler.
 
 https://github.com/volkansenturk/turkiye-iller-ilceler
 
-Bu repodaki dosyayı, TÜİK'in 2016 verilerine göre tekrar güncelledim. 
+Bu repodaki `il-bolge.json` dosyasi ile TÜİK'in 2016 verilerine göre oldugu soylenen;
+
+https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27nin_il%C3%A7eleri#Zonguldak
+
+adresindeki html tablo verilerini jsona cevirip harmanladim. 
 
 `il_id`    => `plaka`nin karsiligi.
 
