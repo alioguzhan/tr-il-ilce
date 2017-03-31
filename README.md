@@ -17,4 +17,14 @@ adresindeki html tablo verilerini jsona cevirip harmanladim.
 `ilce_id`  => `for loop un index degeri + 1`. O kadar ilçe var işte toplamda.
 
 
+**NOT** 
+
+`ilceler.py` dosyasini python3 ve uzeri ile calistirin. Ornek;
+
+`python3.5 ilceler.py`
+
+seklinde. 
+
+
+
 Dursun burda. Elbet lazım olur birine. 
